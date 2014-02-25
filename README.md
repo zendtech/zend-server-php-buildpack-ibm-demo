@@ -3,8 +3,6 @@
 Welcome to the Zend Server PHP buildpack! This buildpack allows you to deploy your PHP apps on Cloud Foundry using Zend Server 6.2. 
 Zend Server's integration with Cloud Foundry allows you to quickly get your PHP applications up and running on a highly available PHP production environment which includes, amongst other features, a highly reliable PHP stack, application monitoring, troubleshooting, and more.
 
-The Zend Server version used by the buildpack can optionally be upgraded to "Enterprise Edition". Support for this edition is still experimental and requires an attached mysql database service.
-
 # Buildpack Components
 
 * Zend Server 6.2 Free Edition
