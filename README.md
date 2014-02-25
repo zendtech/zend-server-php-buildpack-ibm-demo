@@ -23,7 +23,7 @@ echo "Hello world!;
 ?>
  ```
 6. Enter the following command:
-`cf push --buildpack=https://github.com/zendtech/zend-server-php-buildpack.git` 
+`cf push --buildpack=https://github.com/zendtech/zend-server-php-buildpack-ibm-demo.git` 
 7. Name your application.
 8. Select the number of instances you would like to use for your application.
 9. Allocate memory for you application (at least 512M).
